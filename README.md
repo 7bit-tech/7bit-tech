@@ -1,4 +1,4 @@
-# 💫 About Me:
+🤖About:- 
 # 7bit — Intelligence with a Human Heart.
 
 We engineer the intersection of cutting-edge AI and real-world usability. From low-level model architecture to production-grade deployment, we build systems that don't just perform — they *understand*. Every solution we ship is optimized for scale, precision, and the humans who depend on it.
