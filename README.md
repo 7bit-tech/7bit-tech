@@ -1,4 +1,4 @@
-🤖About Us:- 
+# About Us
 # 7bit — Intelligence with a Human Heart.
 
 We engineer the intersection of cutting-edge AI and real-world usability. From low-level model architecture to production-grade deployment, we build systems that don't just perform — they *understand*. Every solution we ship is optimized for scale, precision, and the humans who depend on it.
@@ -19,6 +19,7 @@ We engineer the intersection of cutting-edge AI and real-world usability. From l
 
 
 ## 🌐 Socials:
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/7bittech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/7bit-innovation/)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@7bit.tech)
 
